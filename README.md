@@ -2,17 +2,6 @@
 
 Este projeto é um dashboard interativo que analisa dados de vendas utilizando SQL para consultas e Power BI para visualização. O objetivo é proporcionar uma visão clara e detalhada das vendas, ajudando na tomada de decisões e na análise de desempenho.
 
-## Índice
-
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Código SQL](#código-sql)
-- [Dashboard Power BI](#dashboard-power-bi)
-- [Como Executar](#como-executar)
-- [O Que Aprendi](#o-que-aprendi)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Visão Geral
 
